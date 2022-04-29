@@ -1,1 +1,0 @@
-chrome-extension://lalfpjdbhpmnhfofkckdpkljeilmogfl/cssProperties.js
